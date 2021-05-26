@@ -12,6 +12,8 @@
   - 기본 개념 <br />
     - 벨로퍼트 개념 : https://react.vlpt.us/styling/01-sass.html<br />
     - 개구리 게임 : https://flexboxfroggy.com/#ko<br />
+  - 색상표
+    - https://yeun.github.io/open-color/
 <br /><br />
 ### :bookmark_tabs: REACT 공부<br />
   - 리액트 아이콘 라이브러리 <br />
