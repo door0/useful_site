@@ -18,7 +18,10 @@
 ### :bookmark_tabs: REACT 공부<br />
   - 리액트 아이콘 라이브러리 <br />
     - 설치 : npm add react-icons https://react-icons.github.io/react-icons/icons?name=md<br />
-    - 장점 : 컴포넌트처럼 사용가능! 
+    - 장점 : 컴포넌트처럼 사용가능! <br />
+  - 리액트 polished 라이브러리 <br />
+    - 설치 : npm add polished https://polished.js.org/docs/#installation <br />
+    - 장점 : 다양한 기능이 많음,, <br />
 <br /><br />
 ### :bookmark_tabs: GIT FLOW 공부<br />
   - 기본 개념 <br />
